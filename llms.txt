@@ -24,4 +24,13 @@ Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://g
 ## 🔧 Tool-use & MCP
 | Tool | Focus |
 |---|---|
-| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference serv
+| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
+| [Composio](https://github.com/ComposioHQ/composio) | 250+ tools for agents |
+| [Firecrawl](https://github.com/mendableai/firecrawl) | Web → clean LLM data |
+
+## 🏢 Production
+| Tool | Focus |
+|---|---|
+| [Dify](https://github.com/langgenius/dify) | Agent/workflow platform with UI |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
+| [Langfuse](https://github.com/
