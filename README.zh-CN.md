@@ -40,6 +40,40 @@ _详细内容（列表、链接、描述）以英文维护 — 以下章节为�
 | [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
 | [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
 
+## 🧩 Agent-building blocks
+
+| Framework | Speciality |
+|---|---|
+| [LangGraph](https://github.com/langchain-ai/langgraph) | State-machine agents with cycles |
+| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversations (Microsoft) |
+| [crewAI](https://github.com/crewAIInc/crewAI) | Role-based agent crews |
+| [Swarm](https://github.com/openai/swarm) | OpenAI's lightweight handoffs |
+| [Agno](https://github.com/agno-agi/agno) | Fast agent framework |
+
+## 🌐 Browser & computer-use agents
+
+| Agent | What it does |
+|---|---|
+| [Browser Use](https://github.com/browser-use/browser-use) | LLM controls a real browser |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
+| [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
+| [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+
+## 📊 Evaluation & Observability
+
+| Tool | What |
+|---|---|
+| [LangSmith](https://smith.langchain.com/) | Trace + eval agent runs |
+| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability |
+| [AgentOps](https://www.agentops.ai/) | Agent analytics |
+| [Braintrust](https://www.braintrust.dev/) | Evals platform |
+
+## 📚 Reading path
+
+1. Lilian Weng — [LLM-powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the canonical survey
+2. Anthropic — [Building effective agents](https://www.anthropic.com/research/building-effective-agents) — "don't build an agent when a chain works"
+3. Berkeley CS294 — LLM Agents course
+
 ---
 ## 贡献
 
