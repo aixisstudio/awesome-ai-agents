@@ -4,75 +4,73 @@
 
 AI 智能体、框架与自主工作流精选
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
-
-## 🧰 Frameworks
-| Tool | Focus |
+□ □ □ 框架
+* 工具 * 焦点 *
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | The LLM app framework |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful agent graphs |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based multi-agent crews |
-| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's agent conversations |
-| [smolagents](https://github.com/huggingface/smolagents) | HuggingFace's minimal agent lib |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Official lightweight SDK |
+LLM应用程序框架
+[LangGraph](https://github.com/langchain-ai/langgraph) 国家特工图 |
+[Crewahi](https://github.com/crewAIInc/crewAI) 角色制多代理机组 |
+[AutoGen](https://github.com/microsoft/autogen) 微软代理对话 腾讯网.
+[smolagents] (https://github.com/huggingface/smolagents) |  Hu  Hu  Hu  Hu 脸部的最小代理 lib QQ
+[Pydantic AI](https://github.com/pydantic/pydantic-ai) → 类型安全剂框架 →
+官方轻量级SDK
 
-## 🤖 Autonomous agents
-| Tool | Focus |
+□□□□□□□□□□□□□□□□□自治代理人.
+* 工具 * 焦点 *
 |---|---|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | The OG autonomous agent |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Browser-based agents |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Dev-agent (ex-OpenDevin) |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Fixes GitHub issues autonomously |
+[AutoGPT] (https://github.com/Significant-Gravitas/AutoGPT) | OG 自动代理
+QQ [AgentGPT] (https://github.com/reworkd/AgentGPT) QQ 基于浏览器的代理QQ
+[打开手 (https://github.com/All-Hands-AI/OpenHands) ====================================================================================================================================================================================================================================================
+[SWE-Agent] (https://github.com/SWE-agent/SWE-agent) 解决 GitHub 自主问题 |
 
-## 🔧 Tool-use & MCP
-| Tool | Focus |
+#### 工具使用和MCP
+* 工具 * 焦点 *
 |---|---|
-| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
-| [Composio](https://github.com/ComposioHQ/composio) | 250+ tools for agents |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Web → clean LLM data |
+|[MCP服务器](https://github.com/modelcontextprotocol/servers) | 模范上下文协议参考服务器 |
+[composio](https://github.com/ComposioHQ/composio) + 250+ 代理工具 + 代理工具 + 代理工具
+[Firecrawl] (https://github.com/mendableai/firecrawl) 腾讯网 清空LLM数据 腾讯网.
 
-## 🏢 Production
-| Tool | Focus |
+□ 生产
+* 工具 * 焦点 *
 |---|---|
-| [Dify](https://github.com/langgenius/dify) | Agent/workflow platform with UI |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
-| [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
-| [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
+QQ [Dify] (https://github.com/langgenius/dify) 使用UI的代理/工作流程平台 QQ
+[花 (https://github.com/FlowiseAI/Flowise) +++ 拖放 LLM 流量 +++
+[Langfuse](https://github.com/langfuse/langfuse) LLM可观察性和evals |
+[AgentOps] (https://github.com/AgentOps-AI/agentops) |代理监测 |
 
-## 🧩 Agent-building blocks
+□□□□□□□ 代理构件
 
-| Framework | Speciality |
+* 框架 * 专长 *
 |---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) | State-machine agents with cycles |
-| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversations (Microsoft) |
-| [crewAI](https://github.com/crewAIInc/crewAI) | Role-based agent crews |
-| [Swarm](https://github.com/openai/swarm) | OpenAI's lightweight handoffs |
-| [Agno](https://github.com/agno-agi/agno) | Fast agent framework |
+[LangGraph](https://github.com/langchain-ai/langgraph) 国家机器人员,周期 QQ
+[AutoGen](https://github.com/microsoft/autogen) |多代理对话(微软) |.
+[crewAI] (https://github.com/crewAIInc/crewAI) | 基于角色的代理船员 |
+[swarm] (https://github.com/openai/swarm) ^ OpenAI的轻量级交割 ^
+[Agno](https://github.com/agno-agi/agno) QQ快代理框架 QQ
 
-## 🌐 Browser & computer-use agents
+^ QQ 浏览器和计算机使用代理
 
-| Agent | What it does |
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}你是谁? 它会做什么?
 |---|---|
-| [Browser Use](https://github.com/browser-use/browser-use) | LLM controls a real browser |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
-| [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+QQ [浏览器使用] (https://github.com/browser-use/browser-use) LLM控制一个真实的浏览器 QQ
+[打开手 (https://github.com/All-Hands-AI/OpenHands) ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[Claude Computer use](https://docs.anthropic.com/)    屏幕级别控制 API   
+[LaVague](https://github.com/lavague-ai/LaVague) 网络动作自动化 腾讯网.
 
-## 📊 Evaluation & Observability
+□ □ 评价和可观察性
 
-| Tool | What |
+* 工具 * * * 什麽?
 |---|---|
-| [LangSmith](https://smith.langchain.com/) | Trace + eval agent runs |
-| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability |
-| [AgentOps](https://www.agentops.ai/) | Agent analytics |
-| [Braintrust](https://www.braintrust.dev/) | Evals platform |
+[LangSmith](https://smith.langchain.com/) + Trace + eval 代理运行 +==
+[Langfuse](https://github.com/langfuse/langfuse) 开放源代码 LLM可观察性
+[AgentOps] (https://www.agentops.ai/) |代理分析
+(原始内容存档于2017-09-21). Evals平台.
 
-## 📚 Reading path
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-1. Lilian Weng — [LLM-powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the canonical survey
-2. Anthropic — [Building effective agents](https://www.anthropic.com/research/building-effective-agents) — "don't build an agent when a chain works"
-3. Berkeley CS294 — LLM Agents course
+1. Lilian Weng——[LLM-动力自治代理人](https://lilianweng.github.io/posts/2023-06-23-agent/)——舟山调查
+2. Anthropic——[建立有效代理人](https://www.anthropic.com/research/building-effective-agents)——"链工时不要建立代理人".
+3. 伯克利CS294-LLM 代理课程
 
 ---
 ## 贡献
