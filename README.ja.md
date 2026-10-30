@@ -4,75 +4,73 @@
 
 AI エージェント・フレームワーク・自律ワークフロー
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
-
-## 🧰 Frameworks
-| Tool | Focus |
+## フレームワーク
+| ツール | フォーカス |
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | The LLM app framework |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful agent graphs |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based multi-agent crews |
-| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's agent conversations |
-| [smolagents](https://github.com/huggingface/smolagents) | HuggingFace's minimal agent lib |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Official lightweight SDK |
+| [LangChain](https://github.com/langchain-ai/langchain) | LLMアプリフレームワーク |
+| 【ラングラフ】(https://github.com/langchain-ai/langgraph) | ステートフル エージェント グラフ |
+| 【クルーアイ】(https://github.com/crewAIInc/crewAI) | 役割系マルチエージェントクルー |
+| 【AutoGen】(https://github.com/microsoft/autogen) | マイクロソフトのエージェントの会話 |
+| [試薬](https://github.com/huggingface/smolagents) | ハッギング 顔の最小限のエージェント lib |
+| 【Pydantic AI】(https://github.com/pydantic/pydantic-ai) | 安全型エージェントフレームワーク |
+| 【OpenAIエージェントSDK】(https://github.com/openai/openai-agents-python) | 公式軽量SDK |
 
-## 🤖 Autonomous agents
-| Tool | Focus |
+## ✔ 自動エージェント
+| ツール | フォーカス |
 |---|---|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | The OG autonomous agent |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Browser-based agents |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Dev-agent (ex-OpenDevin) |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Fixes GitHub issues autonomously |
+| 【AutoGPT】(https://github.com/Significant-Gravitas/AutoGPT) | OGオートノーム剤 |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | ブラウザベースのエージェント |
+| 【OpenHands】(https://github.com/All-Hands-AI/OpenHands) | Dev-agent(ex-openDevin) |
+| 【SWE-agent】(https://github.com/SWE-agent/SWE-agent) | GitHubの不具合を自動修正 |
 
-## 🔧 Tool-use & MCP
-| Tool | Focus |
+##**** ツール&MCP
+| ツール | フォーカス |
 |---|---|
-| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
-| [Composio](https://github.com/ComposioHQ/composio) | 250+ tools for agents |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Web → clean LLM data |
+|【MCPサーバー】(https://github.com/modelcontextprotocol/servers) | モデルコンテキストプロトコルリファレンスサーバ |
+| 【コンポシオ】(https://github.com/ComposioHQ/composio) | 代理店向け250以上のツール |
+| 【Firecrawl】(https://github.com/mendableai/firecrawl) | Web → クリーンLMデータ |
 
-## 🏢 Production
-| Tool | Focus |
+## 制作
+| ツール | フォーカス |
 |---|---|
-| [Dify](https://github.com/langgenius/dify) | Agent/workflow platform with UI |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
-| [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
-| [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
+| [Dify](https://github.com/langgenius/dify) | エージェント・ワークフロー・プラットフォーム
+| 【フローズ】(https://github.com/FlowiseAI/Flowise) | ドラッグアンドドロップLMの流れ |
+| 【Langfuse】(https://github.com/langfuse/langfuse) | LLM の保守・無効 |
+| 【AgentOps】(https://github.com/AgentOps-AI/agentops) | エージェントモニタリング |
 
-## 🧩 Agent-building blocks
+## 🧩 エージェントビルディングブロック
 
-| Framework | Speciality |
+| フレームワーク | 専門 |
 |---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) | State-machine agents with cycles |
-| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversations (Microsoft) |
-| [crewAI](https://github.com/crewAIInc/crewAI) | Role-based agent crews |
-| [Swarm](https://github.com/openai/swarm) | OpenAI's lightweight handoffs |
-| [Agno](https://github.com/agno-agi/agno) | Fast agent framework |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | サイクル別の状態機械 |
+| 【AutoGen】(https://github.com/microsoft/autogen) | マルチエージェントの会話 |
+| 【クルーアイ】(https://github.com/crewAIInc/crewAI) | 役割系エージェントのクルー |
+| 【Swarm】(https://github.com/openai/swarm) | OpenAIの軽量ハンドオフ |
+| 【アグノ】(https://github.com/agno-agi/agno) | ファーストエージェントフレームワーク |
 
-## 🌐 Browser & computer-use agents
+## インポート ブラウザー & コンピューター エージェント
 
-| Agent | What it does |
+| 代理店 | お問い合わせ |
 |---|---|
-| [Browser Use](https://github.com/browser-use/browser-use) | LLM controls a real browser |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
-| [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+| 【ブラザー使用】(https://github.com/browser-use/browser-use) | LLMは実際のブラウザをコントロール |
+| 【オープンハンド】(https://github.com/All-Hands-AI/OpenHands) | 完全SWEエージェント環境 |
+|【ロードコンピュータ使用】(https://docs.anthropic.com/) | スクリーンレベルの制御 API |
+| 【LaVague】(https://github.com/lavague-ai/LaVague) | Webアクションの自動化 |
 
-## 📊 Evaluation & Observability
+##評価と観察性
 
-| Tool | What |
+| ツール | お問い合わせ
 |---|---|
-| [LangSmith](https://smith.langchain.com/) | Trace + eval agent runs |
-| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability |
-| [AgentOps](https://www.agentops.ai/) | Agent analytics |
-| [Braintrust](https://www.braintrust.dev/) | Evals platform |
+| [LangSmith](https://smith.langchain.com/) | トレース + イーバルエージェントラン |
+| [Langfuse](https://github.com/langfuse/langfuse) | オープンソースLLMの保守性 |
+| [AgentOps](https://www.agentops.ai/) | エージェント分析 |
+| 【Braintrust】(https://www.braintrust.dev/) | イーバルズプラットフォーム |
 
-## 📚 Reading path
+## ビザ申請
 
-1. Lilian Weng — [LLM-powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the canonical survey
-2. Anthropic — [Building effective agents](https://www.anthropic.com/research/building-effective-agents) — "don't build an agent when a chain works"
-3. Berkeley CS294 — LLM Agents course
+1. Lilian Weng — [LLM の動力を与えられた自律代理店] (https://lilianweng.github.io/posts/2023-06-23-agent/) — 正式な調査
+2. Anthropic — [効果的なエージェントを構築する](https://www.anthropic.com/research/building-effective-agents) — 「チェーンが動作するときにエージェントをビルドしない」
+3。 Berkeley CS294 - LLM エージェントコース
 
 ---
 ## 貢献
