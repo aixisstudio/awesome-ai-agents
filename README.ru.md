@@ -4,75 +4,73 @@
 
 ИИ-агенты, фреймворки и автономные процессы
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
-
-## 🧰 Frameworks
-| Tool | Focus |
+###Фреймворки
+Инструменты | Фокус
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | The LLM app framework |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful agent graphs |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based multi-agent crews |
-| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's agent conversations |
-| [smolagents](https://github.com/huggingface/smolagents) | HuggingFace's minimal agent lib |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Official lightweight SDK |
+[LangChain] (https://github.com/langchain-ai/langchain) | фреймворк приложения LLM
+[LangGraph] (https://github.com/langchain-ai/langgraph) | Графики состояния агента |
+[CrewAI] (https://github.com/crewAIInc/crewAI) | Многоагентные экипажи на основе ролей
+| [AutoGen] (https://github.com/microsoft/autogen) | Разговоры агентов Microsoft |
+[smolagents] (https://github.com/huggingface/smolagents) | Объятия Лицо минимального агента lib
+[Pydantic AI] (https://github.com/pydantic/pydantic-ai) | Безопасный для типов агент
+[OpenAI Агенты SDK] (https://github.com/openai/openai-agents-python) | Официальный легкий SDK
 
-## 🤖 Autonomous agents
-| Tool | Focus |
+## Автономные агенты
+Инструменты | Фокус
 |---|---|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | The OG autonomous agent |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Browser-based agents |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Dev-agent (ex-OpenDevin) |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Fixes GitHub issues autonomously |
+[AutoGPT] (https://github.com/Significant-Gravitas/AutoGPT) Автономный агент OG
+| [AgentGPT] (https://github.com/reworkd/AgentGPT) | Агенты на основе браузера |
+[OpenHands] (https://github.com/All-Hands-AI/OpenHands) | Dev-agent (ex-OpenDevin)
+| [SWE-агент] (https://github.com/SWE-agent/SWE-agent) | Исправления проблем GitHub
 
-## 🔧 Tool-use & MCP
-| Tool | Focus |
+## Инструменты и MCP
+Инструменты | Фокус
 |---|---|
-| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
-| [Composio](https://github.com/ComposioHQ/composio) | 250+ tools for agents |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Web → clean LLM data |
+| [MCP-серверы] (https://github.com/modelcontextprotocol/servers) | Справочные серверы Model Context Protocol |
+| [Composio](https://github.com/ComposioHQ/composio) | 250+ инструментов для агентов |
+[Firecrawl] (https://github.com/mendableai/firecrawl) | Web → чистые данные LLM
 
-## 🏢 Production
-| Tool | Focus |
+###Производство
+Инструменты | Фокус
 |---|---|
-| [Dify](https://github.com/langgenius/dify) | Agent/workflow platform with UI |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
-| [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
-| [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
+| [Dify](https://github.com/langgenius/dify) | Платформа Agent/workflow с интерфейсом |
+[Flowise] (https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
+| [Langfuse] (https://github.com/langfuse/langfuse) | LLM наблюдаемость и эвалы |
+[АгентОпс] (https://github.com/AgentOps-AI/agentops) | Агентский мониторинг |
 
-## 🧩 Agent-building blocks
+##Строительные блоки
 
-| Framework | Speciality |
+Обсуждение Framework | Speciality
 |---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) | State-machine agents with cycles |
-| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversations (Microsoft) |
-| [crewAI](https://github.com/crewAIInc/crewAI) | Role-based agent crews |
-| [Swarm](https://github.com/openai/swarm) | OpenAI's lightweight handoffs |
-| [Agno](https://github.com/agno-agi/agno) | Fast agent framework |
+| [LangGraph] (https://github.com/langchain-ai/langgraph) | Агенты государственных машин с циклами |
+[AutoGen] (https://github.com/microsoft/autogen) | Многоагентные разговоры (Microsoft)
+[crewAI] (https://github.com/crewAIInc/crewAI) | Команды агентов на основе ролей |
+[Swarm] (https://github.com/openai/swarm) | Легкие передачи OpenAI
+| [Agno](https://github.com/agno-agi/agno) | Рамки быстрого агента |
 
-## 🌐 Browser & computer-use agents
+## - Браузер и агенты по компьютерному использованию
 
-| Agent | What it does |
+Агент. Что он делает
 |---|---|
-| [Browser Use](https://github.com/browser-use/browser-use) | LLM controls a real browser |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
-| [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+[Использование браузера] (https://github.com/browser-use/browser-use) | LLM управляет реальным браузером
+[OpenHands] (https://github.com/All-Hands-AI/OpenHands) | Полная среда SWE-агента
+[Использование компьютера] (https://docs.anthropic.com/) | API управления на уровне экрана
+[LaVague] (https://github.com/lavague-ai/LaVague) | Автоматизация веб-действий
 
-## 📊 Evaluation & Observability
+##   Оценка и наблюдаемость
 
-| Tool | What |
+Инструмент Что?
 |---|---|
-| [LangSmith](https://smith.langchain.com/) | Trace + eval agent runs |
-| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability |
-| [AgentOps](https://www.agentops.ai/) | Agent analytics |
-| [Braintrust](https://www.braintrust.dev/) | Evals platform |
+| [LangSmith](https://smith.langchain.com/) | След + эйвальный агент бежит |
+[Langfuse] (https://github.com/langfuse/langfuse) | Наблюдение LLM с открытым исходным кодом
+[AgentOps] (https://www.agentops.ai/) [Аналитика агентов]
+[Braintrust] (https://www.braintrust.dev/) | Платформа Evals
 
-## 📚 Reading path
+##  path Путь чтения
 
-1. Lilian Weng — [LLM-powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the canonical survey
-2. Anthropic — [Building effective agents](https://www.anthropic.com/research/building-effective-agents) — "don't build an agent when a chain works"
-3. Berkeley CS294 — LLM Agents course
+1. Лилиан Венг — [автономные агенты, работающие на LLM] (https://lilianweng.github.io/posts/2023-06-23-agent/) — канонический обзор
+2. Anthropic — [Создание эффективных агентов] (https://www.anthropic.com/research/building-effective-agents) — «не создавайте агент, когда работает цепь»
+3. Berkeley CS294 — LLM Курс агентов
 
 ---
 ## Участие
