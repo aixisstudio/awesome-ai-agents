@@ -4,75 +4,73 @@
 
 Agentes de IA, frameworks y flujos autónomos
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
-
 ## 🧰 Frameworks
-| Tool | Focus |
+TEN TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITOR TERRITOR TERRITOR TEN TERRITOR TEN TERRITOR 
 |---|---|
-| [LangChain](https://github.com/langchain-ai/langchain) | The LLM app framework |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful agent graphs |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based multi-agent crews |
-| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's agent conversations |
-| [smolagents](https://github.com/huggingface/smolagents) | HuggingFace's minimal agent lib |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | Type-safe agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Official lightweight SDK |
+Silencio [LangChain] (https://github.com/langchain-ai/langchain)
+Silencio [LangGraph] (https://github.com/langchain-ai/langgraph)
+Silencio [CrewAI] (https://github.com/crewAIInc/crewAI)
+Silencio [AutoGen] (https://github.com/microsoft/autogen)
+(https://github.com/huggingface/smolagents) El agente mínimo de la cara lib
+Silencio [Pydantic AI] (https://github.com/pydantic/pydantic-ai)
+[OpenAI Agents SDK] (https://github.com/openai/openai-agents-python)
 
-## 🤖 Autonomous agents
-| Tool | Focus |
+## 🤖 Agentes autónomos
+TEN TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITOR TERRITOR TERRITOR TEN TERRITOR TEN TERRITOR 
 |---|---|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | The OG autonomous agent |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Browser-based agents |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Dev-agent (ex-OpenDevin) |
-| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Fixes GitHub issues autonomously |
+[AutoGPT] (https://github.com/Significant-Gravitas/AutoGPT) El agente autónomo de OG
+Silencio [AgentGPT] (https://github.com/reworkd/AgentGPT)
+[OpenHands] (https://github.com/All-Hands-AI/OpenHands) Silencio Dev-agent (ex-OpenDevin)
+Silencio [SWE-agent] (https://github.com/SWE-agent/SWE-agent)
 
-## 🔧 Tool-use & MCP
-| Tool | Focus |
+## 🔧 Tool-use &amp; MCP
+TEN TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITOR TERRITOR TERRITOR TEN TERRITOR TEN TERRITOR 
 |---|---|
-| [MCP servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol reference servers |
-| [Composio](https://github.com/ComposioHQ/composio) | 250+ tools for agents |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | Web → clean LLM data |
+Silencio [serveres MCP](https://github.com/modelcontextprotocol/servers) Silencio Modelo Context Protocol reference servers Silencio
+[Composio](https://github.com/ComposioHQ/composio) tención 250+ herramientas para agentes
+Silencio [Firecrawl] (https://github.com/mendableai/firecrawl)
 
-## 🏢 Production
-| Tool | Focus |
+## 🏢 Producción
+TEN TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITORIO TERRITOR TERRITOR TERRITOR TEN TERRITOR TEN TERRITOR 
 |---|---|
-| [Dify](https://github.com/langgenius/dify) | Agent/workflow platform with UI |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
-| [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
-| [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
+Silencio [Dify](https://github.com/langgenius/dify) Silencio Agente / plataforma de flujo de trabajo con UI Silencio
+[Flowise] (https://github.com/FlowiseAI/Flowise)
+[Langfuse] (https://github.com/langfuse/langfuse) ← La observabilidad de LLM
+[AgentOps] (https://github.com/AgentOps-AI/agentops)
 
-## 🧩 Agent-building blocks
+bloques de construcción de agentes
 
-| Framework | Speciality |
+TEN TERRITORIO TERRITORIO TERRITORIO TERRITORIO
 |---|---|
-| [LangGraph](https://github.com/langchain-ai/langgraph) | State-machine agents with cycles |
-| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversations (Microsoft) |
-| [crewAI](https://github.com/crewAIInc/crewAI) | Role-based agent crews |
-| [Swarm](https://github.com/openai/swarm) | OpenAI's lightweight handoffs |
-| [Agno](https://github.com/agno-agi/agno) | Fast agent framework |
+Silencio [LangGraph] (https://github.com/langchain-ai/langgraph)
+[AutoGen] (https://github.com/microsoft/autogen) Silencio conversaciones multiagentes (Microsoft)
+Silencio [crewAI] (https://github.com/crewAIInc/crewAI)
+[Swarm] (https://github.com/openai/swarm) TENIENDO las transmisiones de peso ligero de OpenAI
+confidencialidad [Agno] (https://github.com/agno-agi/agno)
 
-## 🌐 Browser & computer-use agents
+## 🌐 Browser &amp; computer-use agents
 
-| Agent | What it does |
+Silencio. Lo que hace
 |---|---|
-| [Browser Use](https://github.com/browser-use/browser-use) | LLM controls a real browser |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
-| [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+Silencio [Browser Use] (https://github.com/browser-use/browser-use) Silencio LLM controla un navegador real Silencio
+[OpenHands] (https://github.com/All-Hands-AI/OpenHands) Silencio Full SWE-agent environment  sometida
+Silencio [Claude Computer Use] (https://docs.anthropic.com/) Silencio Control de nivel de pantalla API Silencio
+[LaVague] (https://github.com/lavague-ai/LaVague)
 
-## 📊 Evaluation & Observability
+## 📊 Evaluation &quot; Observability
 
-| Tool | What |
+← Herramienta permanente ¿Qué pasa?
 |---|---|
-| [LangSmith](https://smith.langchain.com/) | Trace + eval agent runs |
-| [Langfuse](https://github.com/langfuse/langfuse) | Open-source LLM observability |
-| [AgentOps](https://www.agentops.ai/) | Agent analytics |
-| [Braintrust](https://www.braintrust.dev/) | Evals platform |
+Silencio [LangSmith] (https://smith.langchain.com/)
+Silencio [Langfuse] (https://github.com/langfuse/langfuse)
+[AgentOps] (https://www.agentops.ai/)
+Silencio [Braintrust] (https://www.braintrust.dev/)
 
 ## 📚 Reading path
 
-1. Lilian Weng — [LLM-powered autonomous agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the canonical survey
-2. Anthropic — [Building effective agents](https://www.anthropic.com/research/building-effective-agents) — "don't build an agent when a chain works"
-3. Berkeley CS294 — LLM Agents course
+1. Lilian Weng — [agentes autónomos propulsados por la LLM] (https://lilianweng.github.io/posts/2023-06-23-agent/) — la encuesta canónica
+2. Antrópico — [Construyendo agentes efectivos] (https://www.anthropic.com/research/building-effective-agents) — "No construya un agente cuando una cadena funcione"
+3. Berkeley CS294 - LLM Curso de agentes
 
 ---
 ## Contribuir
