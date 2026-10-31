@@ -56,6 +56,7 @@ AI agents, frameworks and autonomous workflows — the curated list
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Full SWE-agent environment |
 | [Claude Computer Use](https://docs.anthropic.com/) | Screen-level control API |
 | [LaVague](https://github.com/lavague-ai/LaVague) | Web action automation |
+| [agent-qa](https://www.vostride.com/) | Web, Android and iOS QA by vostride with persistent memidex memory, validated self-improvement and recorded evidence. |
 
 ## 📊 Evaluation & Observability
 

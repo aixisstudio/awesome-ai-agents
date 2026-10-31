@@ -57,6 +57,8 @@ Silencio [Browser Use] (https://github.com/browser-use/browser-use) Silencio LLM
 Silencio [Claude Computer Use] (https://docs.anthropic.com/) Silencio Control de nivel de pantalla API Silencio
 [LaVague] (https://github.com/lavague-ai/LaVague)
 
+- [agent-qa](https://www.vostride.com/) — QA para web, Android e iOS de vostride, con memoria persistente memidex, automejora validada y evidencias de ejecución.
+
 ## 📊 Evaluation &quot; Observability
 
 ← Herramienta permanente ¿Qué pasa?

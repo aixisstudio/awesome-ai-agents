@@ -56,6 +56,7 @@ AI エージェント・フレームワーク・自律ワークフロー
 | 【オープンハンド】(https://github.com/All-Hands-AI/OpenHands) | 完全SWEエージェント環境 |
 |【ロードコンピュータ使用】(https://docs.anthropic.com/) | スクリーンレベルの制御 API |
 | 【LaVague】(https://github.com/lavague-ai/LaVague) | Webアクションの自動化 |
+| [agent-qa](https://www.vostride.com/) | vostride の Web・Android・iOS 向け QA エージェント。memidex の永続メモリ、検証済みの自己改善、実行証拠に対応。 |
 
 ##評価と観察性
 

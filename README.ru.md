@@ -57,6 +57,8 @@
 [Использование компьютера] (https://docs.anthropic.com/) | API управления на уровне экрана
 [LaVague] (https://github.com/lavague-ai/LaVague) | Автоматизация веб-действий
 
+- [agent-qa](https://www.vostride.com/) — QA-агент vostride для веба, Android и iOS: постоянная память memidex, самоулучшение с проверкой и сохранённые данные о выполнении тестов.
+
 ##   Оценка и наблюдаемость
 
 Инструмент Что?
