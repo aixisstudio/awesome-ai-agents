@@ -57,6 +57,8 @@ LLM contrôle un vrai navigateur
 [Claude Utilisation d'ordinateur] (https://docs.anthropic.com/)
 [LaVague] (https://github.com/lavague-ai/LaVague)
 
+- [agent-qa](https://www.vostride.com/) — Tests QA web, Android et iOS par vostride, avec mémoire persistante memidex, auto-amélioration validée et preuves d’exécution.
+
 Évaluation et observabilité
 
 Outil Quoi ?

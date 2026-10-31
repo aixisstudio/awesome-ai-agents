@@ -57,6 +57,8 @@ QQ [浏览器使用] (https://github.com/browser-use/browser-use) LLM控制一�
 [Claude Computer use](https://docs.anthropic.com/)    屏幕级别控制 API   
 [LaVague](https://github.com/lavague-ai/LaVague) 网络动作自动化 腾讯网.
 
+- [agent-qa](https://www.vostride.com/) — vostride 的网页、Android 与 iOS 测试工具，结合 memidex 持久记忆、经验证的自我改进与可复查证据。
+
 □ □ 评价和可观察性
 
 * 工具 * * * 什麽?
