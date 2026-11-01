@@ -35,6 +35,7 @@ AI agents, frameworks and autonomous workflows — the curated list
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flows |
 | [Langfuse](https://github.com/langfuse/langfuse) | LLM observability & evals |
 | [AgentOps](https://github.com/AgentOps-AI/agentops) | Agent monitoring |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Local-first desktop workspace; a Commander coordinates specialist agents with project files, scoped memory and context. |
 
 ## 🧩 Agent-building blocks
 
